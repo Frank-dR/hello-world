@@ -1,3 +1,3 @@
 # hello-world
-Just following the GitHub noob guide :-)
-And therefor adding this line as well!
+Just following the simple GitHub noob guide :-)
+Removed a line and added this one.
